@@ -1,0 +1,31 @@
+.formulario {
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    
+}
+.imagenlogo{
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+}
+
+.formulario{
+    background-color: rgb(255, 255, 255);
+}
+.fondo{background: rgb(187, 54, 54);}
+
+.botoncancelar:hover{
+    background-color:rgb(194, 21, 21)
+}
+.botonregistrado:hover{
+    background-color:rgb(10, 67, 172)
+}
+.botonregistrar:active{
+    background-color:rgb(22, 202, 52)
+}
+span{
+    margin-left: 5px;
+}
